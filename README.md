@@ -1,2 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20peter&fontSize=90)
- <a href="https://blog.naver.com/i2341212" target="_blank"><img src="https://img.shields.io/badge/naver blog-#03C75A?style=flat-square&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Naver</title><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg>&logoColor=white"/></a>
+
+ <a href="(https://blog.naver.com/i2341212)" target="_blank"><img src="https://img.shields.io/badge/문자-#03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
